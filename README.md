@@ -31,6 +31,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Email-YourEmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/jose-pino-araya-909931219/">
-    <img src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-JosePino-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
