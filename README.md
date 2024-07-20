@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
   <a href="[https://your-website-link.com]">
     <img src="https://img.shields.io/badge/Website-YourName-blue?style=flat-square&logo=your-logo&logoColor=white" alt="Website">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-YourEmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:j.pino2610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-j.pino2610@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/jose-pino-araya-909931219/">
     <img src="https://img.shields.io/badge/LinkedIn-JosePino-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
